@@ -1,7 +1,9 @@
 from os import system
 from json import dumps
 
-
+"""
+men bu matnni yozishimdan maqsad , bu narsa git hubda ham o'zgarishini ko'rish uchun 
+"""
 system("cls")
 
 
