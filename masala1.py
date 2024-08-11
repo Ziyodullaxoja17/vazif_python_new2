@@ -47,3 +47,7 @@ print(dumps(odamlar, indent=4, ensure_ascii=False))
 
 fayl.close()
 natija_file.close()
+
+
+
+"men bu o'zgarishni globlani qildim . bundan asosiy maqsad => bu o'zgarishni local ko'rmoqchiman "
